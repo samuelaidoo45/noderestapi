@@ -1,0 +1,17 @@
+{
+  "name": "noderestful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[A\u001bA simple restful api using node\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "scripts": {
+    "test": " "
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongodb": "^3.3.2",
+    "mongoose": "*"
+  },
+  "author": "Sama",
+  "license": "ISC"
+}
